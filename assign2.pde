@@ -43,7 +43,7 @@ alive =true;
 
 void draw(){
 background(255);  
-fill(255,0,0); //<>//
+fill(255,0,0);
 circle(x,y,20);  
 fill(0,0,255);
 rect(800-40,mouseY-50, 20,100);
